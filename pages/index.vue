@@ -13,6 +13,7 @@ export default {}
 </script>
 
 <style>
+.test { margin: 0px; }
 .container {
   margin: 0 auto;
   min-height: 100vh;
